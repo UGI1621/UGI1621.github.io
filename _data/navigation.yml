@@ -11,8 +11,8 @@ main:
   - title: "Portfolio"
     url: /portfolio/
         
-  - title: "Blog"
-    url: https://velog.io/@sawgi_01/posts
-    
   - title: "CV"
     url: /cv/
+    
+  - title: "Blog"
+    url: https://velog.io/@sawgi_01/posts
